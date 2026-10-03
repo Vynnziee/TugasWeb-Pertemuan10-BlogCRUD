@@ -55,9 +55,5 @@ php artisan serve
 | `resources/views/components/card.blade.php` | Component card pembungkus konten |
 | `resources/views/posts/` | View index, show, create, edit |
 
-## Screenshot
-Tambahkan screenshot di sini:
-- `screenshots/index.png` — daftar post + pagination
-- `screenshots/create.png` — form buat post + validasi error
-- `screenshots/show.png` — detail post
-- `screenshots/edit.png` — form edit post
+
+
